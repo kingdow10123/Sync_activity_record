@@ -1,4 +1,4 @@
-aimport React, { useState } from 'react';
+import React, { useState } from 'react';
 import ActivityCategoryPage from './ActivityCategoryPage';
 import Toast from './Toast';
 import './ActivityRecord.css';
